@@ -3,7 +3,7 @@ This script has been modified by Gemei, and is based on the Ultimate Fuel Script
 I have ported the mod to work with the latest version of GTA IV Complete Edition 1.2.0.43.
 
 INSTALLATION 
-Just unzipextract the contents of the ZIP file you downloaded to
+Just unzip extract the contents of the ZIP file you downloaded to
 GTA IV root directory folder. Keep the folders and paths intact.
 
 WARNING 
