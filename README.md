@@ -1,25 +1,26 @@
+
 # GTA-IV-Realistic-Fuel-Mod
 This script has been modified by Gemei, and is based on the Ultimate Fuel Script v2.1.0.0 and Realistic Fuel Script 2.3.145.20929 which was developed by Pedro Rodrigues & Sandakelum.
 I have ported the mod to work with the latest version of GTA IV Complete Edition 1.2.0.43.
 
-INSTALLATION 
+**INSTALLATION** 
 Just unzip extract the contents of the ZIP file you downloaded to
 GTA IV root directory folder. Keep the folders and paths intact.
 
-WARNING 
+**WARNING** 
 This script also shares Ultimate Fuel Script's GUID (which is
 3583e09d-6c44-4820-85e9-93926307d4f8). So don't use these two script together
 or it will cause a conflict in some events.
 
-USAGE
+**USAGE**
 You don't need to worry, every help and which keys you should use will be
 provided to you as ingame instructions when you using this script. And almost
 everything is customizable to your needs.
 
-HELPFUL DOWNLOADS
+**HELPFUL TOOLS**
 If you need to change the display location of the fuel meter, consider using the DashboardPositioner.exe tool.
 
-CHANGE LOG 
+**CHANGE LOG** 
 2.4.x.x
 FIX Ported to GTA IV version 1.2.0.43.
 
@@ -57,7 +58,7 @@ FIX Fixed unwanted double if checks which can be collapsed into one check.
 FIX Dozen more minor bugs has been fixed.
 NOTE Fully commented newly added features and functions on the source code.
 
-FAQ
+**FAQ**
 Q. GTA prompted an error  GTA IV FATAL ERROR Invalid resource detected - Please re-install the game.
 A. Just retry, the error should be gone. It sometimes happens when running the script for the first time.
 
@@ -66,6 +67,3 @@ A. Yes, use a trainer (Simple Native Trainer is recommended) and take note of th
 
 Q. Can you add stealing points for fuel 
 Q. They are in the mod already, they just don't show up on the mapradar. If you think a new location should be added, leave a comment at gta4-mods.com.
-
-Q. You didn't anwser my question.
-A. If you've encountered a problem not described here, please fill a new issue report at this link httpscode.google.comprealistic-fuel-modissuesentrytemplate=Defect%20report%20from%20user. If you have a comment about this mod or you just want to suggest something, write a comment at GTA4-mods.com.
