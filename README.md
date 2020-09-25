@@ -1,4 +1,4 @@
-# GTA-IV-Realstic-Fuel-Mod
+# GTA-IV-Realistic-Fuel-Mod
 This script has been modified by Gemei, and is based on the Ultimate Fuel Script v2.1.0.0 and Realistic Fuel Script 2.3.145.20929 which was developed by Pedro Rodrigues & Sandakelum.
 I have ported the mod to work with the latest version of GTA IV Complete Edition 1.2.0.43.
 
